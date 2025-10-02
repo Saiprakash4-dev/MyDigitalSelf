@@ -5,22 +5,34 @@ const resumeContent = {
     summary: "I build scalable and efficient web applications with a focus on user experience.",
     location: "Dallas, TX"
   },
-  aboutMe: "I am a passionate full stack developer with experience in building web applications.",
+  aboutMe: "Accomplished Full Stack developer with experience in designing and developing complex, high-performance web applications.",
   workExperience: [
     {
       company: "Walmart Global Tech",
       role: "Full Stack Developer",
-      duration: "Jan 2023 - Present",
+      duration: "Dec 2023 - Present",
       description: "Built scalable web applications using React and Java Spring Boot, with strong expertise in microservices and micro frontend architecture. Delivered high-performance, secure solutions through API development, Kafka pipelines, analytics integration, and system upgrades, ensuring zero-downtime deployments, compliance, and reliability."
     },
     {
-      company: "ICICI Bank",
+      company: "Truist Bank",
+      role: "Software Engineer",
+      duration: "Jan 2023 - Nov 2023",
+      description: "Built full-stack applications with React, Node.js, and Spring Boot, delivering features like real-time tracking, financial insights, and secure authentication. Optimized performance with GraphQL, CI/CD pipelines, and OpenShift deployments, while ensuring reliability through automated testing and Dynatrace monitoring."
+    },
+    {
+      company: "VSoft Technologies",
+      role: "Software Engineer",
+      duration: "Oct 2019 - July 2021",
+      description: "Built Angular-based applications with reusable components, services, and optimized performance features like lazy loading and AOT compilation. Delivered loan application workflows through REST APIs, Spring Boot, and Apache Camel integrations, with quality ensured via Karma, Jasmine, and Git."
+    },
+    {
+      company: "Envision Enterprise Solutions",
       role: "Associate Software Engineer",
-      duration: "May 2020 - July 2021",
-      description: "Built dynamic, user-friendly web applications using React, Redux, Java Spring Boot, and RESTful APIs, with efficient database interactions through Hibernate, JPA, JDBC, and optimized SQL queries. Developed modular Spring components, wrote unit and integration tests, and ensured high-quality code with SonarQube. Collaborated in Agile ceremonies and client discussions, while leveraging JIRA, Git, and Confluence for task tracking, collaboration, and documentation. Debugged complex production issues and delivered reliable, scalable solutions across the SDLC."
+      duration: "May 2018 - sep 2019",
+      description: "Built J2EE applications using Struts MVC, SOAP web services, and Oracle JDBC, with robust validation via jQuery. Ensured quality and reliability through SonarQube, Chrome DevTools, Bitbucket, and JIRA."
     }
   ],
-  skills: ["Java", "JavaScript", "TypeScript", "React", "CSS", "HTML", "Spring Boot"],
+  skills: ["Java", "JavaScript", "TypeScript", "React", "Spring Boot", "Angular", "Node.js", "Microservices", "Git", "SQL", "NoSQL"],
   projects: [
     {
       name: "Portfolio Website",
@@ -36,18 +48,16 @@ const resumeContent = {
   education: [
     {
       institution: "University of Central Missouri",
-      degree: "Bachelors in Computer Science",
-      duration: "2021 - 2022"
+      degree: "Bachelors in Computer Science"
     },
     {
         institution: "Andhra University",
-        degree: "Bachelors Degree in Computer Science",
-        duration: "2016 - 2020"
+        degree: "Bachelors Degree in Computer Science"
     }
   ],
   contact: {
-    email: "saiprakashtummala@gmail.com",
-    phone: "603-514-1872",
+    email: "saiprakash6035@gmail.com",
+    phone: "4084548047",
     linkedIn: "https://www.linkedin.com/in/sai-prakash-408454804722222222/",
     github: "https://github.com/Saiprakash4-dev"
   }
