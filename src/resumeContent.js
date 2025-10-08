@@ -1,9 +1,11 @@
+import LinkedIn_PP from './assets/LinkedIn_PP.jpeg';
 const resumeContent = {
   profile: {
     name: "Sai Prakash",
     tagline: "Full Stack Developer",
     summary: "I build scalable and efficient web applications with a focus on user experience.",
-    location: "Dallas, TX"
+    location: "Dallas, TX",
+    image: LinkedIn_PP
   },
   aboutMe: "Accomplished Full Stack developer with experience in designing and developing complex, high-performance web applications.",
   workExperience: [
