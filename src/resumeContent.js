@@ -18,7 +18,7 @@ const resumeContent = {
     {
       company: "Truist Bank",
       role: "Software Engineer",
-      duration: "Jan 2023 - Nov 2023",
+      duration: "Aug 2021 - Nov 2023",
       description: "Built full-stack applications with React, Node.js, and Spring Boot, delivering features like real-time tracking, financial insights, and secure authentication. Optimized performance with GraphQL, CI/CD pipelines, and OpenShift deployments, while ensuring reliability through automated testing and Dynatrace monitoring."
     },
     {
